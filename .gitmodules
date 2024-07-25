@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "vvshiny"]
 	path = vvshiny
-	url = https://github.com/cran/vvshiny
+	url = https://github.com/corneeldh/vvshiny
